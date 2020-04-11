@@ -1,0 +1,1 @@
+Tutorial: https://towardsdatascience.com/accessing-google-spreadsheet-data-using-python-90a5bc214fd2
