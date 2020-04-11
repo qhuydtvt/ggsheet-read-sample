@@ -46,7 +46,7 @@ def main():
     if not values:
         print('No data found.')
     else:
-        print('Name, Major:')
+        print('Member, KPI:')
         for row in values:
             # Print columns A and E, which correspond to indices 0 and 4.
             print('%s, %s' % (row[0], row[1]))
